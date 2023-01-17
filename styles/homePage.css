@@ -2,3 +2,36 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.header-area {
+}
+
+.h1 {
+}
+
+.body-area {
+}
+
+main {
+  background-color: aqua;
+}
+
+.main-area {
+  background-color: blueviolet;
+}
+
+#main {
+  background-color: coral;
+}
+
+.paragraph-wrapper {
+}
+
+.text {
+}
+
+#text-id {
+}
+
+.footer-area {
+}
